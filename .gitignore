@@ -8,6 +8,9 @@ env/
 venv/
 .env
 
+# Jupyter
+.ipynb_checkpoints
+
 # Data
 data/*
 !data/.gitignore
