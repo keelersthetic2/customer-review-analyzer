@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# Data
+data/*
+!data/.gitignore
+
+# Models
+models/*
+!models/.gitignore
