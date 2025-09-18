@@ -12,4 +12,9 @@ I will be using the IMDB movie review dataset at the following link: https://ai.
 - Analyzed the review character lengths (min=32, max=13,704, mean=~1309, median=~970).
 - Saved dataset locally as data/imdb_reviews.csv for future phases.
 
-Next: Phase 2 (Cleaning + EDA)
+### Phase 2: Cleaning and EDA (done)
+- Cleaned the data
+- Counted the words and looked at the review word-count statistics
+- Examined and plotted the raw and non-stopword word frequencies
+
+Next: Phase 3 (Modeling)
