@@ -17,4 +17,9 @@ I will be using the IMDB movie review dataset at the following link: https://ai.
 - Counted the words and looked at the review word-count statistics
 - Examined and plotted the raw and non-stopword word frequencies
 
-Next: Phase 3 (Modeling)
+### Phase 3: Modeling (done)
+- Built baseline models (Logistic Regression, Linear SVM, Multinomial Naive Bayes) using TF-IDF features.
+- Evaluated performance with accuracy, precision/recall/F1, and confusion matrices.
+- Compared results and identified Linear SVM as the strongest baseline (~90% accuracy).
+
+Next: Phase 4 (Deep Learning)
