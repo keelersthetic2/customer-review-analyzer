@@ -18,3 +18,6 @@ data/*
 # Models
 models/*
 !models/.gitignore
+
+# .vscode
+.vscode/
