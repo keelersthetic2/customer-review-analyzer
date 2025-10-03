@@ -22,4 +22,9 @@ I will be using the IMDB movie review dataset at the following link: https://ai.
 - Evaluated performance with accuracy, precision/recall/F1, and confusion matrices.
 - Compared results and identified Linear SVM as the strongest baseline (~90% accuracy).
 
-Next: Phase 4 (Deep Learning)
+### Phase 4: Deep Learning (done)
+- Built CNN, GRU, and DistilBERT (transformer).
+- Evaluated performance on validation/test metrics with accuracy, precision/recall/F1, and confusion matrices.
+- Compared results and identified DistilBERT as the most accurate (~91.5% accuracy).
+
+Next: Phase 5
