@@ -27,4 +27,6 @@ I will be using the IMDB movie review dataset at the following link: https://ai.
 - Evaluated performance on validation/test metrics with accuracy, precision/recall/F1, and confusion matrices.
 - Compared results and identified DistilBERT as the most accurate (~91.5% accuracy).
 
-Next: Phase 5
+### Phase 5: Streamlit App (done)
+- Built a simple UI for review sentiment classification
+- Used DistilBERT as the means for sentiment classification
