@@ -4,7 +4,7 @@ import time
 import torch
 import numpy as np
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
-from app.config import DISTILBERT_LOCAL_DIR, MAX_LEN_BERT, CONF_THRESHOLD
+from config import DISTILBERT_LOCAL_DIR, MAX_LEN_BERT, CONF_THRESHOLD
 
 _tokenizer = None
 _model = None

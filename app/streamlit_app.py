@@ -1,7 +1,8 @@
 # The UI: Text box for reviews, button to classify, and result output
-from app.infer import predict
-from app.config import APP_TITLE, APP_TAGLINE
+from infer import predict
+from config import APP_TITLE, APP_TAGLINE
 import streamlit as st
+
 
 st.set_page_config(page_title=APP_TITLE, page_icon="🎬")
 st.title(APP_TITLE)
